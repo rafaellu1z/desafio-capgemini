@@ -17,9 +17,9 @@ Crie um diretório na raiz C:<br>
 Depois entre na pasta que acabou de criar<br>
 Digite <code>cd desafio-capgemini</code>
 <p>
-Depois digite a sequencia de comandos abaixo pressionando a tecla ENTER do teclado após cada um deles
-  Digite <code>git init</code>
-  Digite <code>git clone https://github.com/rafaellu1z/desafio-capgemini.git</code>
+Depois digite a sequencia de comandos abaixo pressionando a tecla ENTER do teclado após cada um deles<br>
+  Digite <code>git init</code><br>
+  Digite <code>git clone https://github.com/rafaellu1z/desafio-capgemini.git</code><br>
 <p>
 Finalizando o download do Projeto vá ao diretorio bin<br>
   Digite <code>cd C:/desafio-capgemini/bin</code>
